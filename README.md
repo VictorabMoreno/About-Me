@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋 meu nome é Victor Moreno</h1>
 <h3 align="center">desenvolvedor web</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorabmoreno" alt="victorabmoreno" /></a> </p>
+
 
 - 🔭Atualmente faço projetos em desenvolvimento de games web [game/2brain](https://github.com/VictorabMoreno/jogo2brain)
 
